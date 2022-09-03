@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaahilPrasad
 - 👀 I’m interested in Mathematics and Computer Science.
-- 🌱 I’m currently learning Mathematics, English, Physics, CSI, DIT, Accounting
+- 🌱 I’m currently learning Mathematics, Physics, CSI, DIT, Accounting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
